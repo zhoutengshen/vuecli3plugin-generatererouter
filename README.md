@@ -24,3 +24,6 @@ export default new Router({
 后续配置功能还在持续更新中
 
 bug请联系10531897082qq.com
+
+
+https://www.jianshu.com/p/e8a79e8c18de
