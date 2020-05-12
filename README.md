@@ -29,4 +29,4 @@ bug请联系10531897082qq.com
 https://www.jianshu.com/p/e8a79e8c18de
 
 
-响应插件地址：https://www.npmjs.com/package/vue-cli-plugin-generatererouter-pw
+相应插件地址：https://www.npmjs.com/package/vue-cli-plugin-generatererouter-pw
